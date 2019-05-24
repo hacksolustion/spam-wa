@@ -6,4 +6,4 @@
 # apt install php 
 # git clone https://github.com/Edi/nasa47/12.git 
 # cd spam-wa 
-# whatsapp.php
+# php spamwa.php
